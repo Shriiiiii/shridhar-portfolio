@@ -82,7 +82,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 0 16px 32px rgba(37, 99, 235, 0.9);
+  
 }
 
 .logo-initial {
@@ -270,7 +270,7 @@
   background: linear-gradient(to right, #22d3ee, #6366f1);
   color: #020617;
   font-weight: 600;
-  box-shadow: 0 14px 30px rgba(37, 99, 235, 0.7);
+  
 }
 
 .btn-primary:hover {
