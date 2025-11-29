@@ -75,7 +75,7 @@ function App() {
             <div className="hero-text">
               <div className="hero-badge">
                 <span className="dot-live" />
-                Open to Internships & Junior Developer Roles
+                Open to Internships & Software Developer Roles
               </div>
 
               <h1 className="hero-title">
@@ -105,7 +105,7 @@ function App() {
                 <div className="meta-block">
                   <span className="meta-label">Core Focus</span>
                   <span className="meta-value">
-                    Python · Django · MERN · Cloud
+                    Python · Java · Django · MERN · Cloud
                   </span>
                 </div>
               </div>

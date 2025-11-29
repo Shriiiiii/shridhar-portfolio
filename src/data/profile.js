@@ -3,9 +3,9 @@
 export const profile = {
   name: "Shridhar G",
   location: "Mukka, Mangalore, India",
-  role: "Python & Cloud Developer",
+  role: "Software & Cloud Developer",
   headline:
-    "Certified Python, AWS Cloud, and MERN developer crafting scalable full-stack and cloud-native applications.",
+    "Certified Python, AWS Cloud, and MERN developer crafting scalable full-stack and cloud applications.",
   email: "shridharr0405@gmail.com",
   phone: "+91 8073871931",
   linkedin: "https://www.linkedin.com/in/shridhar-g",
