@@ -39,6 +39,21 @@ export const profile = {
         "Deployed frontend on Vercel and backend on Render with proper environment configuration.",
       ],
     },
+    {
+  company: "Infosys Springboard",
+  role: "Python & AI Developer Intern",
+  duration: "3 months (Virtual) Present",
+  points: [
+    "Developed an AI-powered Crypto Investment Manager platform enabling portfolio tracking, market analysis, and automated investment insights.",
+    "Implemented Python-based data pipelines to fetch, clean, and analyze real-time cryptocurrency data from multiple APIs.",
+    "Integrated AI/ML models to generate risk scores, price predictions, and personalized trading recommendations.",
+    "Built a responsive dashboard using React.js to visualize portfolio performance, asset allocations, and trend indicators.",
+    "Developed secure backend services using Node.js and Express.js to manage user portfolios and analytics workflows.",
+    "Used GitHub for version control and GitHub Actions to automate testing and continuous integration.",
+    "Collaborated with mentors via virtual sessions to refine system architecture and improve algorithmic accuracy.",
+  ],
+}
+
   ],
 
   education: [
